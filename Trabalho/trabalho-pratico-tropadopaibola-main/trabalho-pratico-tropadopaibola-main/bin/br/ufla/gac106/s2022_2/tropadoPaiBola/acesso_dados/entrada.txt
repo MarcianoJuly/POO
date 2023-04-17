@@ -1,0 +1,10 @@
+0,A Dijiang,China,1992 Summer,1992,Summer
+1,A Lamusi,China,2012 Summer,2012,Summer
+2,Gunnar Nielsen Aaby,Denmark,1920 Summer,1920,Summer
+3,Edgar Lindenau Aabye,Denmark/Sweden,1900 Summer,1900,Summer
+4,Christine Jacoba Aaftink,Netherlands,1988 Winter,1988,Winter
+5,Christine Jacoba Aaftink,Netherlands,1988 Winter,1988,Winter
+6,Christine Jacoba Aaftink,Netherlands,1992 Winter,1992,Winter
+7,Christine Jacoba Aaftink,Netherlands,1992 Winter,1992,Winter
+8,Christine Jacoba Aaftink,Netherlands,1994 Winter,1994,Winter
+9,Christine Jacoba Aaftink,Netherlands,1994 Winter,1994,Winter
